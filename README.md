@@ -1,4 +1,4 @@
-# DataFetcher
+# DataFetcher R05
 
 ## Опис
 Цей проєкт представляє собою React-компонент `DataFetcher`, який завантажує дані з сервера з використанням бібліотеки `axios`. Як приклад використовується API `https://jsonplaceholder.typicode.com/posts`, яке повертає список постів.
